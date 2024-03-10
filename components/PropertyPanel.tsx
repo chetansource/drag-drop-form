@@ -15,7 +15,7 @@ const PropertyPanel = () => {
               />
           ) : (
               <p className="my-auto text-center font-bold text-lg mx-10 text-white">
-                  Select any component to edit it's Properties
+                  Select any component to edit itS Properties
               </p>
           )}
       </section>
